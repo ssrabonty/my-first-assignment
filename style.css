@@ -2,7 +2,6 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
-
 /* header styles */
 .header-section {
     background-image: url('./images/banner/banner3.png');
@@ -70,6 +69,29 @@
     height: 24px;
     width: 24px;
 }
+/* bonus part  */
+.learn-from-previous-year{
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    height: 400px;
+    background-image: linear-gradient(to left, rgba(0,0,255,0.3), rgba(88, 20, 235, 0.4));
+    border-radius: 20px;
+    box-shadow:5px 10px 18px black;
+    padding-top: 50px;
+}
+.learn-details{
+    padding-top: 70px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.learn-painting{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ /* my plans  */
+
 .plans-title{
     font-size: 40px;
     font-weight: 800;
@@ -104,6 +126,8 @@
     font-weight: 700;
     padding-bottom: 20px;
 }
+/* footer part  */
+
 .contact{
     background-color: black;
     color: white;
