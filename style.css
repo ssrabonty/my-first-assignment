@@ -104,3 +104,49 @@
     font-weight: 700;
     padding-bottom: 20px;
 }
+.contact{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: 580px;
+    padding-top: 130px;
+}
+.contact-left-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+.contact-left-description{
+    padding-top: 16px;
+    padding-bottom: 24px;
+    padding-right: 330px;
+}
+.left-phone{
+    padding-top: 16px;
+    padding-bottom: 32px;
+}
+.twitter-icon{
+    padding: 0 18px;
+}
+.your-email{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background: none;
+    width: 300px;
+    padding: 15px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+.blue-btn{
+    background-color: #005FAC;
+    color: white;
+    width: 171px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 20px 25px;
+    border-radius: 5px;
+}
